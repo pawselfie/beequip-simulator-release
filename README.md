@@ -11,8 +11,6 @@ A tool for simulating and calculating various beequip mechanics from **Bee Swarm
   - [How to Use Bias Simulation](#how-to-use-bias-simulation)
   - [How to Use the Upgrade Calculator](#how-to-use-the-upgrade-calculator)
   - [How to Use Beequip Simulation](#how-to-use-beequip-simulation)
-- [Building](#building)
-- [Project Structure](#project-structure)
 
 ---
 
